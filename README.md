@@ -54,16 +54,16 @@ Pycharm2023.2.1激活教程
 3. 双击运行 `vbs` 文件
 
     
-    ![](/.pic/01_run_vbs.png)
+    ![](/assets/pic/01_run_vbs.png)
     
 4. 点击 确定
 
-    ![](/.pic/02_run_vbs.png)
+    ![](/assets/pic/02_run_vbs.png)
 
 
 5. 等待一会，最后会弹框
 
-    ![](/.pic/03_run_vbs.png)
+    ![](/assets/pic/03_run_vbs.png)
 
     
 
